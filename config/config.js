@@ -46,14 +46,18 @@ var config = {
 			position: "top_left",
 			config: {
 				calendars: [
+					// {
+					// 	symbol: "calendar-check",
+					// 	url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
+					// },
+					// {
+					// 	symbol: "calendar-check",
+					// 	url: "http://www.google.com/calendar/ical/china__zh_cn@holiday.calendar.google.com/public/basic.ics"
+					// },
 					{
 						symbol: "calendar-check",
-						url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
+						url: "https://github.com/waytry/MagicMirror/blob/master/_data/myevents.ics"
 					},
-					{
-						symbol: "calendar-check",
-						url: "http://www.google.com/calendar/ical/china__zh_cn@holiday.calendar.google.com/public/basic.ics"
-					}
 				]
 			}
 		},
