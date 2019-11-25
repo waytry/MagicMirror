@@ -56,7 +56,7 @@ var config = {
 					// },
 					{
 						symbol: "calendar-check",
-						url: "https://github.com/waytry/MagicMirror/blob/master/_data/myevents.ics"
+						url: "https://raw.githubusercontent.com/waytry/MagicMirror/master/_data/myevents.ics"
 					},
 				]
 			}
