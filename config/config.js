@@ -84,8 +84,8 @@ var config = {
 				location: "Suwanee",
 				locationID: "4225309",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				appid: "3989e85b152390446c842e53b51ff4a3",
-				maxNumberOfDays: "8",
-				fadePoint: "0.6",
+				// maxNumberOfDays: "8",
+				// fadePoint: "0.6",
 				appendLocationNameToHeader: false
 			}
 		},
@@ -98,10 +98,14 @@ var config = {
 					//	title: "Zhihu",
 					//	url: "https://www.zhihu.com/rss"
 					//},
+					// {
+					// 	title: "New York Times",
+					// 	url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+					// },
 					{
-						title: "New York Times",
-						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-					},
+						title: "Personal Station",
+						url: "https://raw.githubusercontent.com/waytry/MagicMirror/master/_data/newsfeed.xml"
+					}
 				],
 				showSourceTitle: true,
 				showPublishDate: true,
