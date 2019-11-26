@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
   <channel>
-    <!-- <title>NYT &gt; Top Stories</title>
-    <link>https://www.nytimes.com?emc=rss&amp;partner=rss</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
-    <description></description>
-    <language>en-us</language>
-    <copyright>Copyright 2019 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 26 Nov 2019 00:08:10 +0000</lastBuildDate>
-    <image>
-      <title>NYT &gt; Top Stories</title>
-      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
-      <link>https://www.nytimes.com?emc=rss&amp;partner=rss</link>
-    </image> -->
     <item>
       <title>It is a test for the custom news feed</title>
-      <!-- <link>https://www.nytimes.com/2019/11/25/us/politics/mcgahn-testimony-ruling.html?emc=rss&amp;partner=rss</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/us/politics/mcgahn-testimony-ruling.html</guid>
-      <atom:link href="https://www.nytimes.com/2019/11/25/us/politics/mcgahn-testimony-ruling.html?emc=rss&amp;partner=rss" rel="standout"></atom:link> -->
-      <description>A judge rejected the Trump administration’s argument that senior White House officials are immune from congressional subpoenas.</description>
-      <!-- <dc:creator>Charlie Savage</dc:creator> -->
-      <pubDate>Mon, 25 Nov 2019 23:34:32 +0000</pubDate>
-      <!-- <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolton, John R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burck, William A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGahn, Donald F II</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/us/politics/25dc-mcgahn/25dc-mcgahn-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Democrats want to talk to Donald McGahn, the former White House counsel, about President Trump’s efforts to impede the Russia investigation.</media:description> -->
+      <description>Balabala</description>
+      <pubDate>Mon, 25 Nov 2019 19:00:32 -0005</pubDate>    
     </item>
   </channel>
 </rss>
