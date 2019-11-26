@@ -98,10 +98,10 @@ var config = {
 					//	title: "Zhihu",
 					//	url: "https://www.zhihu.com/rss"
 					//},
-					// {
-					// 	title: "New York Times",
-					// 	url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-					// },
+					{
+						title: "New York Times",
+						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+					},
 					{
 						title: "Personal Station",
 						url: "https://raw.githubusercontent.com/waytry/MagicMirror/master/_data/newsfeed.xml"
