@@ -1,0 +1,69 @@
+{
+    "anytime" : [
+        "Hey there sexy!"
+    ],
+    "morning" : [
+        "Good morning, sunshine!",
+        "Who needs coffee when you have your smile?",
+        "Go get 'em, Tiger!",
+        "Good morning, handsome!",
+        "Enjoy your day!",
+        "How was your sleep?"
+    ],
+    "afternoon" : [
+        "Hitting your stride!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!"
+    ],
+    "evening" : [
+        "You made someone smile today, I know it.",
+        "You are making a difference.",
+        "The day was better for your efforts."
+    ],
+    "day_sunny": [
+        "Today is a sunny day",
+        "It's a beautiful day"
+    ],
+    "day_cloundy": [
+        "Cloudy day with good mood"
+    ],
+    "cloundy": [
+        "Cloudy day with good mood"
+    ],
+    "cloundy_windy": [
+        "Cloudy day with wind"
+    ],
+    "showers": [
+        "Don't forget your umbrella"
+    ],
+    "rain": [
+        "Don't forget your umbrella"
+    ],
+    "thunderstorm": [
+        "thunderstorm"
+    ],
+    "snow": [
+        "Snowball battle!"
+    ],
+    "fog": [
+        "fog"
+    ],
+    "night_clear": [
+        "night clear"
+    ],
+    "night_cloudy": [
+        "night cloudy"
+    ],
+    "night_showers": [
+        "night showers"
+    ],
+    "night_rain": [
+        "night rain"
+    ],
+    "night_thunderstorm": [
+        "night thunderstorm"
+    ],
+    "night_snow": [
+        "night snow"
+    ]
+}
