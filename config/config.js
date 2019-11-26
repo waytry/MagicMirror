@@ -44,8 +44,8 @@ var config = {
 			module: "calendar",
 			header: "Everyday is a good day",
 			position: "top_left",
-			timeFormat: "absolute",
 			config: {
+				timeFormat: "absolute",
 				calendars: [
 					// {
 					// 	symbol: "calendar-check",
