@@ -2,9 +2,9 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
   <channel>
     <item>
-      <title>It is a test for the custom news feed 2</title>
+      <title>It is a test for the custom news feed 3EST</title>
       <description>Balabala</description>
-      <pubDate>Mon, 25 Nov 2019 19:40:00 +0000</pubDate>    
+      <pubDate>Mon, 25 Nov 2019 19:45:00 EST</pubDate>
     </item>
   </channel>
 </rss>
