@@ -42,8 +42,9 @@ var config = {
 		},
 		{
 			module: "calendar",
-			header: "US Holidays",
+			header: "Everyday is a good day",
 			position: "top_left",
+			timeFormat: "dateheaders",
 			config: {
 				calendars: [
 					// {
