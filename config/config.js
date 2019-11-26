@@ -64,7 +64,10 @@ var config = {
 		},
 		{
 			module: "compliments",
-			position: "lower_third"
+			position: "lower_third",
+			config: {
+				remoteFile: "https://raw.githubusercontent.com/waytry/MagicMirror/master/_data/compliments.json",
+			}
 		},
 		{
 			module: "currentweather",
