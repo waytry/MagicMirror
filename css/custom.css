@@ -14,11 +14,9 @@
  }
 
  .clock .bright {
-    font-size: 40px;
-    color: #f00
+    font-size: 60px;
     }
     
-.clock .dimmed {
+/* .clock .dimmed {
 font-size: 20px;
-color: #0f0
-}
+} */
