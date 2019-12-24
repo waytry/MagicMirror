@@ -12,3 +12,13 @@
  body {
  	
  }
+
+ .clock .bright {
+    font-size: 40px;
+    color: #f00
+    }
+    
+.clock .dimmed {
+font-size: 20px;
+color: #0f0
+}
