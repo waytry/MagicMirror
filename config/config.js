@@ -73,8 +73,8 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "Suwanee, GA",
-				locationID: "4225309",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				location: "Santa Clara, CA",
+				locationID: "5393015",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				appid: "3989e85b152390446c842e53b51ff4a3",
 				showHumidity: true,
 				useLocationAsHeader: true
@@ -85,8 +85,8 @@ var config = {
 			position: "top_right",
 			//header: "Weather Forecast",
 			config: {
-				location: "Suwanee",
-				locationID: "4225309",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				location: "Santa Clara",
+				locationID: "5393015",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				appid: "3989e85b152390446c842e53b51ff4a3",
 				// maxNumberOfDays: "8",
 				// fadePoint: "0.6",
